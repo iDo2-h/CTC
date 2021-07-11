@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My Growth Book
 
-You can use the [editor on GitHub](https://github.com/iDo2-h/CTC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a digital archive of Huixin's life. It contains my academic studying, frisbee progress, and *book & movie* comments. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The page is for content indexing.
 
-### Markdown
+### Knowledge Generation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have been using the title *Knowledge Generation* for synthesizing studying materials, where I take notes of what I learned and some interpretations. Generation means two things.  For one, it symbolized the dynamic growth of my knowledge arsenal. For another, it reminds me of the generation I am in, my identity, and my passions.
+
+It is a place of knowledge. We have had four happy years together, all the way from Advanced Mathematics, to Signal Processing, to Microprocessors and my Ph.D. life. 
+
+I wish for tons of more. 
 
 ```markdown
 Syntax highlighted code block
