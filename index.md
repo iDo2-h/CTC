@@ -1,4 +1,4 @@
-# Welcome to My Growth Book
+## Welcome to My Growth Book
 
 This is a digital archive of Huixin's life. It contains my academic studying, frisbee progress, and *book & movie* comments. 
 
@@ -13,11 +13,11 @@ I have been using the title *Knowledge Generation* for some time. It is a synthe
 I am going down the road.
 
 
-```markdown
+### Contents
 
-- Machine Learning[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-- Deep Learning[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-```
+- Machine Learning [link](https://guides.github.com/features/mastering-markdown/)
+- Deep Learning [link](https://guides.github.com/features/mastering-markdown/)
+
 
 ## Frisbee NOW
 
