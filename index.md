@@ -6,11 +6,10 @@ The page is for content indexing.
 
 ### Knowledge Generation
 
-I have been using the title *Knowledge Generation* for synthesizing studying materials, where I take notes of what I learned and some interpretations. Generation means two things.  For one, it symbolized the dynamic growth of my knowledge arsenal. For another, it reminds me of the generation I am in, my identity, and my passions.
+I have been using the title *Knowledge Generation* for years. It is a synthesis of studying materials. I take notes of what I learned, give interpretations and put them here. It is a place of knowledge. We have had four happy years together, all the way from Advanced Mathematics, to Signal Processing, to Microprocessors and my Ph.D. life. I wish for tons of more.
 
-It is a place of knowledge. We have had four happy years together, all the way from Advanced Mathematics, to Signal Processing, to Microprocessors and my Ph.D. life. 
+*Generation* means two things.  First, it symbolized the dynamic growth of my knowledge arsenal. Second, it reminds me of my values. I am just one tiny bit within a limited period of time. If had I dreamt of anything, it should be to watch and learn. *Going down the road with my eyes open*, as the Dylan song goes. I want to be in a generation of knowledge. It is my goal, my identity and passion.
 
-I wish for tons of more. 
 
 ```markdown
 Syntax highlighted code block
