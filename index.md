@@ -2,7 +2,6 @@
 
 This is a digital archive of Huixin's life. It contains my academic studying, frisbee progress, and *book & movie* comments. 
 
-The page is for content indexing.
 
 ## Knowledge Generation
 
